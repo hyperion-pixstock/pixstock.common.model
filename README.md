@@ -1,1 +1,1 @@
-"# pixstock.common.model" 
+# Pixstock.Common.Model
